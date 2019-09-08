@@ -1,0 +1,77 @@
+.mynavbar li.nav-item {
+    padding-left: 30px;
+    font-family: 'Montserrat-Regular';
+}
+
+.mynavbar li a {
+    color: #3f4f62
+}
+
+.mynavbar .navbar-brand {
+    font-size: 30px;
+    font-family:'monserrat-medium';
+}
+
+.product-information {
+    padding: 70px 0 70px 0;
+}
+
+.product-information .product-content {
+    margin-top: 30px;
+}
+
+.product-information .product-content .title {
+    color: #3f4f62;
+    margin: 0;
+    
+
+}
+
+.product-information .product-content .caption {
+    color: #3f4f62;
+    font-size: 52px;
+    font-family: 'Montserrat-Thin';
+    margin-bottom: 30px;
+}
+
+.product-information .product-content .btn-buy{
+    color: #fff;
+    background: #3f4f62;
+    font-size: 16px;
+    font-family: 'Montserrat-Bold';
+    padding: 13px 26px 13px 26px;
+    margin-right: 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: all 0.6s;
+
+}
+
+.product-information .product-content .btn-buy:hover {
+    background: none;
+    border: 1px solid #3f4f62;
+    color: #3f4f62;
+    transition: all 0.6s;
+
+}
+
+.product-information .product-content .btn-basic {
+    color: #929292;
+    text-decoration: none;
+
+}
+
+.testimonial {
+    margin-top: 100px;
+}
+
+.testimonial .desc {
+    color: #3f4f62;
+    font-family: 'Montserrat-Italic';
+    margin-top: 12px
+}
+
+.testimonial .btn-basic {
+    font-size: 14px;
+    
+}
